@@ -30,4 +30,4 @@ description: A continuación se muestra la programación
 
 09:00 - 13:00 | Desayuno institucional
 
-13:00 - 14:00 | **Clausura de este rollo**
+13:00 - 14:00 | **Clausura de este ![rollo](#)**
