@@ -32,7 +32,7 @@
     sections = ["posts"]
     fullCover = true
     centerHeadline = true
-    style = "false"
+    style = ""gradient-featured"
     [home.feature]
         orientation = "stacked"
         color = "primary"
