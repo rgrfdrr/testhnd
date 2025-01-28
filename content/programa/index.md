@@ -5,10 +5,10 @@ date: 2025-01-28T13:54:47+01:00
 draft: false
 layout: minimal 
 metadata: none
-description: A continuación se muestra la programación
+description: Programa días 25 y 26 sep.
 
 # tags: 
-# icon: 
+icon: fas book-open
 # thumbnail: 
     # url: 
     # author: 
@@ -30,4 +30,4 @@ description: A continuación se muestra la programación
 
 09:00 - 13:00 | Desayuno institucional
 
-13:00 - 14:00 | **Clausura de este** [rollo](#
+13:00 - 14:00 | **Clausura de este** [rollo](#)
