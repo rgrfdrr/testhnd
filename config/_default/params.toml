@@ -34,6 +34,7 @@
     centerHeadline = true
     style = "false"
     [home.feature]
+        orientation = "stacked"
         color = "primary"
 
 [navigation]
@@ -53,7 +54,7 @@
     placement = "bottom-right"
 
 [sharing]
-    enabled = true
+    enabled = false
     sort = "weight"
     reverse = false
     webshare = true

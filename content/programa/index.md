@@ -4,7 +4,9 @@ title: Programa
 date: 2025-01-28T13:54:47+01:00
 draft: false
 layout: minimal 
-description: Programa
+metadata: none
+description: A continuación se muestra la programación
+
 # tags: 
 # icon: 
 # thumbnail: 
@@ -14,7 +16,7 @@ description: Programa
     # origin: 
     # originURL: 
 ---
-## MIÉRCOLES 25 de septiembre, en LEÓN
+### MIÉRCOLES 25 de septiembre, en LEÓN
 
 10:30 - 12:30 | Acreditación de congresistas
 
@@ -23,3 +25,9 @@ description: Programa
 14:00 - 16:30 | Almuerzo libre
 
 17:00 - 19:00 | **Inauguración**
+
+### JUEVES 26 de septiembre, en LEÓN
+
+09:00 - 13:00 | Desayuno institucional
+
+13:00 - 14:00 | **Clausura de este rollo**
