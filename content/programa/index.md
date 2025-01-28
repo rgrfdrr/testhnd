@@ -30,4 +30,4 @@ icon: fas book-open
 
 09:00 - 13:00 | Desayuno institucional
 
-13:00 - 14:00 | **Clausura de este** [rollo](#)
+13:00 - 14:00 | Clausura de este [rollo](#)
