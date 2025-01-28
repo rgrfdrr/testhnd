@@ -5,7 +5,7 @@
     enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
     canonifyAssetsURLs = false
-    endorse = true
+    endorse = false
     footerBelowFold = false
     loading = "lazy"
     breakpoint = "md"
@@ -29,13 +29,15 @@
     checkVersion = false
 
 [home]
-    # sections = ["posts"]
-    fullCover = false
-    centerHeadline = false
-    style = ""
+    sections = ["posts"]
+    fullCover = true
+    centerHeadline = true
+    style = "false"
+    [home.feature]
+        color = "primary"
 
 [navigation]
-    anchor = true
+    anchor = false
     logo = "/img/logo_icon.svg"
     color = "body"
     fixed = true
@@ -110,12 +112,12 @@
     sizes = [16, 32, 48]
 
 [style]
-    primary = "#d43900"
-    secondary = "#6c757d"
-    success = "#198754"
-    info = "#0dcaf0"
-    warning = "#ffc107"
-    danger = "#dc3545"
+    primary = "#faba00"
+    secondary = "#a1a18f"
+    success = "#00a280"
+    info = "#93b3d9"
+    warning = "#ec6f09"
+    danger = "#e30612"
     light = "#f8f9fa"
     dark = "#212529"
     themeOpacity = "10"
