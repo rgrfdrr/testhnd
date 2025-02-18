@@ -35,7 +35,9 @@
     style = "gradient-featured"
     [home.feature]
         orientation = "stacked"
-        color = "primary"
+        color = ""
+        width = 6
+        align = "start"
 
 [navigation]
     anchor = false
@@ -113,7 +115,7 @@
     sizes = [16, 32, 48]
 
 [style]
-    primary = "#faba00"
+    primary = "#e3007b"
     secondary = "#a1a18f"
     success = "#00a280"
     info = "#93b3d9"

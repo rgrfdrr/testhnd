@@ -8,6 +8,11 @@
   pageRef = "/programa"
   weight = 20
 
+[[main]]
+  name = "Delitos"
+  pageRef = "/delitos"
+  weight = 30
+
 [[social]]
   name = "LinkedIn"
   pre = "fab linkedin"
