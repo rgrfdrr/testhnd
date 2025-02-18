@@ -1,6 +1,6 @@
 [main]
     separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    description = "Congreso Internacional de Transparencia y Buen Gobierno en León."
     enableDarkMode = true
     enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
@@ -35,7 +35,7 @@
     style = "gradient-featured"
     [home.feature]
         orientation = "stacked"
-        color = ""
+        color = "primary"
         width = 6
         align = "start"
 
@@ -115,7 +115,7 @@
     sizes = [16, 32, 48]
 
 [style]
-    primary = "#e3007b"
+    primary = "#b10b4c"
     secondary = "#a1a18f"
     success = "#00a280"
     info = "#93b3d9"
