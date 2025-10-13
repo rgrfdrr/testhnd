@@ -1,7 +1,6 @@
 ---
-title: IX CIT 
-description: IX Congreso Internacional de Transparencia y Gobierno Abierto | 25 a 27 sep. 2024 | León (España) 
-
+title: ABOGADOS
+description: Abogados en León desde hace más de 40 años
 #thumbnail:
 #    url: /img/sunrise.jpg
 #    author: Harris Vo
