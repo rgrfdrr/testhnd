@@ -115,7 +115,7 @@
     sizes = [16, 32, 48]
 
 [style]
-    primary = "#b10b4c"
+    primary = "#a10d2a"
     secondary = "#a1a18f"
     success = "#00a280"
     info = "#93b3d9"
