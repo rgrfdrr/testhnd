@@ -9,8 +9,8 @@ description: Abogados en León desde hace más de 40 años
 #    originName: Unsplash
 actions:
   programa:
-    url: "tel:+34000000000"
-    title: "Llamar"
+    url: "#"
+    title: "000 000 000"
     icon: "phone"
     outline: "true"
     weight: 1
