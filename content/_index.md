@@ -8,12 +8,12 @@ description: Abogados en León desde hace más de 40 años
 #    origin: https://unsplash.com/photos/ZX6BPboJrYk
 #    originName: Unsplash
 actions:
-  programa:
-    url: "#"
-    title: "000 000 000"
-    icon: "phone"
-    outline: "true"
-    weight: 1
+  # programa:
+  #	url: "#"
+  # title: "000 000 000"
+  # icon: "phone"
+  # outline: "true"
+  # weight: 1
 
   contacto:
     url: "#"
