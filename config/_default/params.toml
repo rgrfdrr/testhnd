@@ -41,7 +41,8 @@
 
 [navigation]
     anchor = false
-    logo = false
+    logo = "/img/logo_icon.svg"
+	logo-align = "center"
     color = "body"
     fixed = true
     offset = "5.5rem"
