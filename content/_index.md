@@ -9,9 +9,9 @@ description: Abogados en León desde hace más de 40 años
 #    originName: Unsplash
 actions:
   programa:
-    url: "/programa"
-    title: "Programa"
-    icon: "fas book-open"
+    url: "tel:+34000000000"
+    title: "Llamar"
+    icon: "phone"
     outline: "true"
     weight: 1
 
