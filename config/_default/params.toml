@@ -35,7 +35,7 @@
     style = "gradient-featured"
     [home.feature]
         orientation = "stacked"
-        color = "primary"
+        color = "#fcfcfc"
         width = 6
         align = "start"
 
