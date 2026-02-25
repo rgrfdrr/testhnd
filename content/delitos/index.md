@@ -15,6 +15,17 @@ description: A continuación se muestran los delitos
     # origin: 
     # originURL: 
 ---
+- _bookshop_name: hero
+  heading:
+    title: Title
+    align: start
+    content: Hero content
+    width: 8
+  background:
+    backdrop: /assets/img/nat-9l98kFByiao-unsplash.jpg
+  breadcrumb: true
+
+
 El [programa]({{% ref "programa" %}}) es tan aburrido que tendría que estar tipificado como homicidio, que consiste en matar por aburrimiento.
 
 {{< accordion id="accordion-flush" >}}
